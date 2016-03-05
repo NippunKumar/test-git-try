@@ -1,0 +1,18 @@
+Hello World..!:wq
+
+
+
+
+::wq
+::q
+
+
+
+eexit
+II::ca
+
+
+cat > nippun.txt
+[2~[2~[2~Octocat.txtOctocat.txtOctocat.txtOctocat.txt
+Octocat.txtOctocat.txtOctocat.txt
+[2~[2~[2~[2~Octocat.txtOctocat.txtOctocat.txtOctocat.txtOctocat.txtOctocat.txt[2~[2~[2~Octocat.txtOctocat.txt.:::::
